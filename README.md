@@ -29,9 +29,16 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align=none>
+<table align=none>
+  <tr>
 <a href="https://github.com/SurajjBhardwaj">
-  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=SurajjBhardwaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </tr>
+    <tr>
+       <td>
+      <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=SurajjBhardwaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SurajjBhardwaj&layout=compact&langs_count=8&theme=algolia"/>
-</a> 
-</p>
+</a> </td>
+</tr>
+</table>
