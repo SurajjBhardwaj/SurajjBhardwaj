@@ -11,7 +11,7 @@
 ⚡ &nbsp;Fun Fact : I Love Traveling.\
 👦 &nbsp; Call me He / Him 
 
-<img alt="Night Coding" height="200em" src="https://wallpapercave.com/wp/wp2757900.gif" align="right"/>
+<img alt="" height="200em" src="" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -31,7 +31,7 @@
 
 <p align=none>
 <a href="https://github.com/SurajjBhardwaj">
-  <img height="180em" column ="250em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SurajjBhardwaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- <img height="180em" column ="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SurajjBhardwaj&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=SurajjBhardwaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SurajjBhardwaj&layout=compact&langs_count=8&theme=algolia"/>
 </a> 
 </p>
