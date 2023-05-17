@@ -42,3 +42,16 @@
 </a> </td>
 </tr>
 </table>
+---
+
+### 🔥 &nbsp;GitHub Streaks
+<table>  
+  <tr>
+   <img height="250em"  src="https://github-readme-streak-stats.herokuapp.com/?user=SurajjBhardwaj&show_icons=true&theme=algolia&border=true"/>
+  </tr>
+</table>
+
+[![](https://visitcount.itsvg.in/api?id=SurajjBhardwaj&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![]([https://komarev.com/ghpvc/?username=SurajjBhardwaj&color=green](https://komarev.com/ghpvc/?username=SurajjBhardwaj&layout=compact&langs_count=8theme=algolia&color=blue))
+
