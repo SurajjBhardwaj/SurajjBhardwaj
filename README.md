@@ -47,7 +47,7 @@
 ### 🔥 &nbsp;GitHub Streaks
 <table>  
   <tr>
-   <img height="250em"  src="https://github-readme-streak-stats.herokuapp.com/?user=SurajjBhardwaj&show_icons=true&theme=algolia&border=true"/>
+   <img height="360em"  src="https://github-readme-streak-stats.herokuapp.com/?user=SurajjBhardwaj&show_icons=true&theme=algolia&border=true"/>
   </tr>
 </table>
 
