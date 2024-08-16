@@ -1,5 +1,10 @@
 ## 👋 &nbsp;Hey there! I'm Suraj pandey
 
+
+###
+![snake animation](https://github.com/SurajjBhardwaj/SurajjBhardwaj/blob/output/github-contribution-grid-snake2.svg)
+
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
@@ -52,6 +57,4 @@
 </table>
 
 [![](https://visitcount.itsvg.in/api?id=SurajjBhardwaj&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![]([https://komarev.com/ghpvc/?username=SurajjBhardwaj&color=green](https://komarev.com/ghpvc/?username=SurajjBhardwaj&layout=compact&langs_count=8theme=algolia&color=blue))
 
