@@ -2,7 +2,7 @@
 
 
 ###
-![snake animation](https://github.com/SurajjBhardwaj/SurajjBhardwaj/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/surajjbhardwaj/surajjbhardwaj/output/snake.svg" alt="Snake animation" />
 
 
 ### 👨🏻‍💻 &nbsp;About Me
