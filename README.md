@@ -11,8 +11,8 @@
 <div style="background-color: #2d2d2d; color: #c2c2c2; font-family: monospace; padding: 20px; border-radius: 10px; max-width: 100%; overflow-x: auto;">
   <span style="color: #8ae234;">surajjbhardwaj</span><span style="color: #729fcf;">$</span> user status
   <pre style="color: #eeeeec; white-space: pre-wrap; word-wrap: break-word;">
+working         : Full Stack Engineer @<a href="https://www.pixelsandgrids.com/" target="_blank" rel="noopener noreferrer">pixels&Grids</a>
 running         : <a href="https://fossunited.org/jalandhar" target="_blank" >foss jalandhar</a>, <a href="https://gdg.community.dev/gdg-jalandhar/" target="_blank" >gdg jalandhar</a>
-working         : part time / freelancer 
 worked          : more than 2 startups
 frontend        : Yes 
 backend         : Yes
